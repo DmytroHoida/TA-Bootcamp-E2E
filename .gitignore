@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+allure-results/
