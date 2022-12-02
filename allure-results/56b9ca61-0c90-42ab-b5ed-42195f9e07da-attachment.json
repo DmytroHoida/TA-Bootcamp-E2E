@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#modal-Website > div.modal-dialog.modal-dialog-centered > div > button\"}\n  (Session info: chrome=107.0.5304.107)",
-  "stacktrace": "Backtrace:\n\tOrdinal0 [0x00C6ACD3+2075859]\n\tOrdinal0 [0x00BFEE61+1633889]\n\tOrdinal0 [0x00AFB7BD+571325]\n\tOrdinal0 [0x00B2AC2F+764975]\n\tOrdinal0 [0x00B2AE1B+765467]\n\tOrdinal0 [0x00B5D0F2+970994]\n\tOrdinal0 [0x00B47364+881508]\n\tOrdinal0 [0x00B5B56A+963946]\n\tOrdinal0 [0x00B47136+880950]\n\tOrdinal0 [0x00B1FEFD+720637]\n\tOrdinal0 [0x00B20F3F+724799]\n\tGetHandleVerifier [0x00F1EED2+2769538]\n\tGetHandleVerifier [0x00F10D95+2711877]\n\tGetHandleVerifier [0x00CFA03A+521194]\n\tGetHandleVerifier [0x00CF8DA0+516432]\n\tOrdinal0 [0x00C0682C+1665068]\n\tOrdinal0 [0x00C0B128+1683752]\n\tOrdinal0 [0x00C0B215+1683989]\n\tOrdinal0 [0x00C16484+1729668]\n\tBaseThreadInitThunk [0x76356939+25]\n\tRtlGetFullPathName_UEx [0x77B78FD2+1218]\n\tRtlGetFullPathName_UEx [0x77B78F9D+1165]\n"
-}
